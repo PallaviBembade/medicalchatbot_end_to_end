@@ -6,7 +6,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-End-Medical-Chatbot
+https://github.com/PallaviBembade/End-to-End-Medical-Chatbot
 ```
 
 ### STEP 01- Create a conda environment after opening the repository
